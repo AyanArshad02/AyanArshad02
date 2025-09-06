@@ -10,7 +10,7 @@
 - 🐍 Skilled in **Python, Pandas, NumPy, SQL, PostgreSQL**  
 - 🤖 Experienced in **Machine Learning, MLOps, Generative AI, RAG, VectorDBs**  
 - 🏗 Understanding of **System Design (LLD + HLD)**  
-- 🎯 Mentored **100+ students** (including my own ML batch + ML Teaching Assistant @ [Antern]([https://antern.co](https://www.linkedin.com/company/team-antern/posts/?feedView=all)) founded by [@ayushsingh]([https://twitter.com/ayushsingh](https://www.linkedin.com/in/ayush-singh488/)))  
+- 🎯 Mentored **100+ students** (including my own ML batch + ML Teaching Assistant @ [Antern]((https://www.linkedin.com/company/team-antern/posts/?feedView=all)) founded by [@ayushsingh](https://www.linkedin.com/in/ayush-singh488/))  
 - ✍️ I share insights via [Medium](https://medium.com/@ayanarshad2002) and [YouTube](https://www.youtube.com/@MLwithAyanIITM)  
 
 ---
