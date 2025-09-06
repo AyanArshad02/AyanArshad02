@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Md Ayan Arshad  
 
 🚀 Data Scientist | ML Engineer | MLOps Enthusiast | Generative AI Builder  
-🎓 BS in Data Science & Applications @ IIT Madras  
+🎓 Undergrad @ IIT Madras  
 💡 Passionate about building scalable ML systems, GenAI solutions, and mentoring the next wave of AI talent.  
 
 ---
@@ -9,7 +9,7 @@
 ## 🔥 About Me
 - 🐍 Skilled in **Python, Pandas, NumPy, SQL, PostgreSQL**  
 - 🤖 Experienced in **Machine Learning, MLOps, Generative AI, RAG, VectorDBs**  
-- 🏗 Strong grasp of **System Design (LLD + HLD)**  
+- 🏗 Understanding of **System Design (LLD + HLD)**  
 - 🎯 Mentored **100+ students** (including my own ML batch + ML Teaching Assistant @ [Antern]([https://antern.co](https://www.linkedin.com/company/team-antern/posts/?feedView=all)) founded by [@ayushsingh]([https://twitter.com/ayushsingh](https://www.linkedin.com/in/ayush-singh488/)))  
 - ✍️ I share insights via [Medium](https://medium.com/@ayanarshad2002) and [YouTube](https://www.youtube.com/@MLwithAyanIITM)  
 
@@ -56,10 +56,8 @@
 - Includes **A/B testing framework**  
 
 ---
-
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayanarshad&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayanarshad&layout=compact&theme=radical)
+## 🏆 Achievements & Badges
+![trophy](https://github-profile-trophy.vercel.app/?username=ayanarshad&theme=tokyonight&row=1&column=6)  
 
 ---
 
@@ -67,6 +65,11 @@
 - 📝 [Medium Blogs](https://medium.com/@ayanarshad2002)  
 - 🎥 [YouTube Channel](https://www.youtube.com/@MLwithAyanIITM)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/md-ayan-arshad-740288248/)  
+
+---
+## 🌱 Currently Exploring
+- 🔭 Scaling **Generative AI** systems  
+- 🧠 System Design for ML Engineers
 
 ---
 
