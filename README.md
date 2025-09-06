@@ -10,7 +10,7 @@
 - 🐍 Skilled in **Python, Pandas, NumPy, SQL, PostgreSQL**  
 - 🤖 Experienced in **Machine Learning, MLOps, Generative AI, RAG, VectorDBs**  
 - 🏗 Understanding of **System Design (LLD + HLD)**  
-- 🎯 Mentored **100+ students** (including my own ML batch + ML Teaching Assistant [@Antern]((https://www.linkedin.com/company/team-antern/posts/?feedView=all)) founded by [@ayushsingh](https://www.linkedin.com/in/ayush-singh488/))  
+- 🎯 Mentored **100+ students** (including my own ML batch + ML Teaching Assistant [@Antern](https://www.linkedin.com/company/team-antern/posts/?feedView=all) founded by [@ayushsingh](https://www.linkedin.com/in/ayush-singh488/))  
 - ✍️ I share insights via [Medium](https://medium.com/@ayanarshad2002) and [YouTube](https://www.youtube.com/@MLwithAyanIITM)  
 
 ---
@@ -26,7 +26,7 @@
 
 ## 🚀 Projects
 
-### 🔹 [MLOps Credit Card Fraud Detection]([github-link](https://github.com/AyanArshad02/Credit-Fraud-Detection))
+### 🔹 [MLOps Credit Card Fraud Detection](https://github.com/AyanArshad02/Credit-Fraud-Detection)
 💳 Machine Learning-powered fraud detection system for real-time transaction monitoring.  
 - Built scalable MLOps pipeline with **AWS, Kubernetes, Prometheus, Grafana**  
 - Used **DVC for data versioning** and **MLflow & Dagshub** for experiment tracking  
@@ -34,7 +34,7 @@
 
 ---
 
-### 🔹 [MLOps Vehicle Insurance Predictor]([github-link](https://github.com/AyanArshad02/MLOps-Vehicle-Insurance-Predictor))
+### 🔹 [MLOps Vehicle Insurance Predictor](https://github.com/AyanArshad02/MLOps-Vehicle-Insurance-Predictor)
 🚗 Predicts whether a person will purchase vehicle insurance.  
 - End-to-end **MLOps workflow**: preprocessing → training → deployment  
 - Stack: **MongoDB, Docker, AWS, FastAPI, CI/CD**  
@@ -42,22 +42,18 @@
 
 ---
 
-### 🔹 [Fraud Detection EDA]([github-link](https://github.com/AyanArshad02/Fraud-Detection-In-depth-EDA))
+### 🔹 [Fraud Detection EDA](https://github.com/AyanArshad02/Fraud-Detection-In-depth-EDA)
 📊 In-depth exploratory data analysis for fraud detection datasets.  
 - Feature engineering & statistical analysis  
 - Data visualization for uncovering fraud patterns  
 
 ---
 
-### 🔹 [Email Marketing Campaign Optimization]([github-link](https://github.com/AyanArshad02/email-marketing-campaign-optimization-using-ML))
+### 🔹 [Email Marketing Campaign Optimization](https://github.com/AyanArshad02/email-marketing-campaign-optimization-using-ML)
 📩 ML solution to optimize email marketing campaigns.  
 - Predictive modeling to maximize click-through rates  
 - Personalization via content, timing & targeting  
 - Includes **A/B testing framework**  
-
----
-## 🏆 Achievements & Badges
-![trophy](https://github-profile-trophy.vercel.app/?username=ayanarshad&theme=tokyonight&row=1&column=6)  
 
 ---
 
