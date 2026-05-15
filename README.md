@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/md-ayan-arshad-740288248/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ayanarshad02.github.io)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ayanarshad2002)
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/ayanarshad02)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@MLwithAyanIITM)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayanarshad2002@gmail.com)
 
@@ -178,7 +178,7 @@ First internship was at Second Brain Labs in Sep 2024, shipping a production cha
 I write about what I've actually shipped — production RAG failures, multi-tenancy trade-offs, GenAI system design — on LinkedIn and Medium.
 
 - ✍️ [LinkedIn](https://linkedin.com/in/md-ayan-arshad-740288248/) — RAG failures, eval pipelines, AI NFRs, career lessons
-- 📝 [Medium](https://medium.com/@ayanarshad2002) — technical deep-dives
+- 📝 [Dev.to](https://dev.to/ayanarshad02) — technical deep-dives
 - 🎥 [YouTube](https://www.youtube.com/@MLwithAyanIITM) — ML content
 - 👨‍🏫 Mentored 100+ students · PY001 & PY002 free cohort-based Python courses
 
@@ -207,7 +207,7 @@ If you're building production AI systems or just want to talk shop about RAG/age
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/md-ayan-arshad-740288248/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ayanarshad02.github.io)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ayanarshad2002)
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/ayanarshad02)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@MLwithAyanIITM)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayanarshad2002@gmail.com)
 
