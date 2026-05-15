@@ -16,7 +16,7 @@
 
 ## About
 
-I'm a Data Scientist at **Softeon**, working on production multi-tenant RAG and conversational AI for enterprise supply chain software — while finishing my BS at IIT Madras. My focus is on the engineering side: making GenAI reliable, observable, and cost-predictable in systems real users depend on.
+I'm a Data Scientist at **Softeon**, working on production multi-tenant RAG and conversational AI for enterprise supply chain software, while finishing my BS at IIT Madras. My focus is on the engineering side: making GenAI reliable, observable, and cost-predictable in systems real users depend on.
 
 Before Softeon, I shipped a GPT-powered LinkedIn outreach system at Second Brain Labs and taught Python and ML to 100+ students at Antern. Building things and explaining them clearly have both been part of the work from the start.
 
